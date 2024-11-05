@@ -1,6 +1,7 @@
 {
-  "colors" : [
+  "images" : [
     {
+      "filename" : "Circle.svg",
       "idiom" : "universal"
     }
   ],
